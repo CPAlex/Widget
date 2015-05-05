@@ -1,0 +1,15 @@
+{
+    "name": "test/widget-bundle",
+    "keywords": ["Claroline", "Plugin"],
+    "homepage": "http://www.claroline.net",
+    "type": "claroline-plugin",
+    "license": "GPL-3.0+",
+    "require": {
+        "php": ">=5.4.1",
+        "claroline/core-bundle": "~4.1"
+    },
+    "autoload": {
+        "psr-0": { "Test\\Widget": "" }
+    },
+    "target-dir": "Test/WidgetBundle"
+}

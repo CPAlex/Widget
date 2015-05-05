@@ -1,0 +1,6 @@
+plugin:
+    has_options: false
+    widgets:
+        -
+            name: test_test_widget
+            is_configurable: false

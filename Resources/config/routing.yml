@@ -1,0 +1,4 @@
+widget_controller:
+    resource: "@TestWidgetBundle/Controller/WidgetController.php"
+    type: annotation
+    prefix: /
